@@ -1,0 +1,3 @@
+git init für den start
+git add <title>
+git commit -m "your commit message"
